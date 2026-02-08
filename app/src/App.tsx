@@ -68,7 +68,7 @@ function App() {
             />
           </div>
           <h1 className="text-4xl md:text-6xl font-bold text-rose-600 mb-4 animate-bounce">
-            WOOOOOOO! ❤️
+            WOOOOO! ❤️
           </h1>
           <p className="text-xl md:text-2xl text-rose-700 font-medium">
             I love you sooooo much! 💕
@@ -118,7 +118,7 @@ function App() {
 
         {/* Question */}
         <h1 className="text-3xl md:text-5xl font-bold text-rose-700 mb-10 drop-shadow-sm">
-          Will you be my Valentine? 💕
+          Hey Babboo! Will you be my Valentine? 💕
         </h1>
 
         {/* Buttons Container */}
